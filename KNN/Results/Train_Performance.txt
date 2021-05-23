@@ -1,0 +1,7 @@
+************************* Train Results *************************
+Accuracy_Train    = 0.77
+Sensitivity_Train = 0.85
+Specificity_Train = 0.66
+RMSE_Train        = 0.48
+AUC_Train         = 0.75
+f1_score_Train    = 0.77
