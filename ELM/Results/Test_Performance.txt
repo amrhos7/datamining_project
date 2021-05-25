@@ -1,0 +1,7 @@
+************************* Test Results *************************
+Accuracy_Test    = 0.71
+Sensitivity_Test = 0.77
+Specificity_Test = 0.64
+RMSE_Test        = 0.54
+AUC_Test         = 0.7
+f1_score_Test    = 0.71
